@@ -1,0 +1,14 @@
+#EXTM3U
+
+                            PELICULAS
+#EXTINF:-1 tvg-id="" tvg-name="LA MUJER MARABI" tvg-logo="" group-title="PELICULAS",LA MUJER MARABI
+http://s3.cinelat.com/720/WW84.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="SPYCIES" tvg-logo="" group-title="PELICULAS",SPYCIES
+http://s3.cinelat.com/720/Spycies.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="PELI 24/7" tvg-logo="" group-title="PELICULAS",PELI 24/7
+http://158.69.116.209:25461/live/3bbde67dfc3640cab21b814ab69aa4e6/bda15c9643be4a0091e8e2ab5fd3a500/2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Avengers3 Infinity War" tvg-logo="" group-title="PELICULAS",Avengers3 Infinity War
+http://main-vod-edge-3.iptvserver.tv/vodcached/_definst_/mp4:origin3/Avengers.3.Infinity.War.avi.mp4/playlist.m3u8
