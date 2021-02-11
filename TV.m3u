@@ -1,34 +1,34 @@
 #EXTM3U
-
                             PELICULAS
-#EXTINF:-1 tvg-id="" tvg-name="LA MUJER MARABI" tvg-logo="" group-title="PELICULAS",LA MUJER MARABI
+                            #EXTINF:-1 tvg-id="" tvg-name="LA MUJER MARABI" tvg-logo="" group-title="PELICULAS",LA MUJER MARABI
 http://s3.cinelat.com/720/WW84.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="SPYCIES" tvg-logo="" group-title="PELICULAS",SPYCIES
 http://s3.cinelat.com/720/Spycies.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="P" tvg-logo="" group-title="PELICULAS",Proyector Pawe
-http://158.69.116.209:25461/live/3bbde67dfc3640cab21b814ab69aa4e6/bda15c9643be4a0091e8e2ab5fd3a500/2.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Avengers3 Infinity War" tvg-logo="" group-title="PELICULAS",Avengers3 Infinity War
 http://main-vod-edge-3.iptvserver.tv/vodcached/_definst_/mp4:origin3/Avengers.3.Infinity.War.avi.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Proyecto Pawer" tvg-logo="" group-title="PELICULAS",Proyecto Pawer
 http://s3.cinelat.com/720/ProyectoPower.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Alvin y las Ardillas Aventura sobre ruedas" tvg-logo="" group-title="PELICULAS",Alvin y las Ardillas Aventura sobre ruedas
 http://s3.cinelat.com/720/AlvinyLasArdillas4.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="A DESCUBIERTO" tvg-logo="" group-title="PELICULAS",A DESCUBIERTO
+#EXTINF:-1 tvg-id="" tvg-name="A DESCUBIERTO" tvg-logo="https://i.ytimg.com/vi/er0bLHZC_TQ/maxresdefault.jpg" group-title="PELICULAS",A DESCUBIERTO
 http://149.56.140.48:999/PELISSD/outside-the-wire-2021-Castellano.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="ANT-MAN AND THE WASP" tvg-logo="" group-title="PELICULAS",ANT-MAN AND THE WASP
+#EXTINF:-1 tvg-id="" tvg-name="ANT-MAN AND THE WASP" tvg-logo="https://www.joblo.com/assets/images/oldsite/posters/images/full/Ant-Man-and-the-wasp-Dolby-poster_thumb.jpg" group-title="PELICULAS",ANT-MAN AND THE WASP
 http://main-vod-edge-2.iptvserver.tv/vodcached/_definst_/mp4:origin3/AntM4n2HDR.DivxTotal.avi.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="AXEL THE SPACE ADVENTURER" tvg-logo="" group-title="PELICULAS",AXEL THE SPACE ADVENTURER
+#EXTINF:-1 tvg-id="" tvg-name="AXEL THE SPACE ADVENTURER" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDQ0MDJiZTctYjhhNi00ZjUwLWIwNTEtNGU1MDliMDczYWI5XkEyXkFqcGdeQXVyNTYzMjkwNjU@._V1_UY1200_CR90,0,630,1200_AL_.jpg" group-title="PELICULAS",AXEL THE SPACE ADVENTURER
 http://main-vod-edge-2.iptvserver.tv/vodcached/_definst_/mp4:origin3/Axel.El.Aventurero.Del.Espacio.%5BHDTV%5D.avi.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="JOHNNY ENGLISH STRIKES AGAIN" tvg-logo="" group-title="PELICULAS",JOHNNY ENGLISH STRIKES AGAIN
+#EXTINF:-1 tvg-id="" tvg-name="JOHNNY ENGLISH STRIKES AGAIN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Johnny_English_Strikes_Again_poster.jpg/220px-Johnny_English_Strikes_Again_poster.jpg" group-title="PELICULAS",JOHNNY ENGLISH STRIKES AGAIN
 http://main-vod-edge-2.iptvserver.tv/vodcached/_definst_/mp4:origin3/Johnny.English.De.Nuevo.En.Accion.%5BBluray.Rip%5D.avi.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="BUSQUEDA IMPACABLES 3" tvg-logo="" group-title="PELICULAS",BUSQUEDA IMPACABLES 3
+#EXTINF:-1 tvg-id="" tvg-name="BUSQUEDA IMPACABLES 3" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71ItAv0DblL._AC_SX679_.jpg" group-title="PELICULAS",BUSQUEDA IMPACABLES 3
 http://s3.cinelat.com/720/BusquedaImplacable3.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="BLOODSHOT" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61Pzxsx3qBL._AC_SX522_.jpg" group-title="PELICULAS",BLOODSHOT
+http://vod.cinelat.com/docs/securesc/Dzkio2EmnT90D0SAYz1jAN/ZGLkZmNkZGpjAt/1613011000000/13205173065105550258/*/10CZkxWQxpmG5VZrLz1j7P9HJBj8F8dcS?e=download&BloodshotCAM.mp4|3
