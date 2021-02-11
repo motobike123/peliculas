@@ -12,3 +12,23 @@ http://158.69.116.209:25461/live/3bbde67dfc3640cab21b814ab69aa4e6/bda15c9643be4a
 
 #EXTINF:-1 tvg-id="" tvg-name="Avengers3 Infinity War" tvg-logo="" group-title="PELICULAS",Avengers3 Infinity War
 http://main-vod-edge-3.iptvserver.tv/vodcached/_definst_/mp4:origin3/Avengers.3.Infinity.War.avi.mp4/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Proyecto Pawer" tvg-logo="" group-title="PELICULAS",Proyecto Pawer
+http://s3.cinelat.com/720/ProyectoPower.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Alvin y las Ardillas Aventura sobre ruedas" tvg-logo="" group-title="PELICULAS",Alvin y las Ardillas Aventura sobre ruedas
+http://s3.cinelat.com/720/AlvinyLasArdillas4.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="A DESCUBIERTO" tvg-logo="" group-title="PELICULAS",A DESCUBIERTO
+http://149.56.140.48:999/PELISSD/outside-the-wire-2021-Castellano.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="ANT-MAN AND THE WASP" tvg-logo="" group-title="PELICULAS",ANT-MAN AND THE WASP
+http://main-vod-edge-2.iptvserver.tv/vodcached/_definst_/mp4:origin3/AntM4n2HDR.DivxTotal.avi.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AXEL THE SPACE ADVENTURER" tvg-logo="" group-title="PELICULAS",AXEL THE SPACE ADVENTURER
+http://main-vod-edge-2.iptvserver.tv/vodcached/_definst_/mp4:origin3/Axel.El.Aventurero.Del.Espacio.%5BHDTV%5D.avi.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="JOHNNY ENGLISH STRIKES AGAIN" tvg-logo="" group-title="PELICULAS",JOHNNY ENGLISH STRIKES AGAIN
+http://main-vod-edge-2.iptvserver.tv/vodcached/_definst_/mp4:origin3/Johnny.English.De.Nuevo.En.Accion.%5BBluray.Rip%5D.avi.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BUSQUEDA IMPACABLES 3" tvg-logo="" group-title="PELICULAS",BUSQUEDA IMPACABLES 3
+http://s3.cinelat.com/720/BusquedaImplacable3.mp4
